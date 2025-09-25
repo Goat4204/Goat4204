@@ -59,7 +59,10 @@
 ###
 
 <br clear="both">
+<!-- <img 
+  src="https://i.pinimg.com/1200x/3e/9f/58/3e9f58e6ed92ab176746d36e37b3547c.jpg" 
+  style="width:900px; height:auto; transform: rotate(-90deg); transform-origin: center center; display:block; margin:auto;" 
+/> -->
 
-<img src="https://raw.githubusercontent.com/Goat4204/Goat4204/output/snake.svg" alt="Snake animation" />
 
 ###
